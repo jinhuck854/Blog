@@ -1,11 +1,17 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Blog&fontSize=90" />
 
-# 개발 공부를 위한 Daily Diary
+# 개발 공부를 위한 Issues Diary
+Daily Diary는 FE  개발자가 되기 위해 공부한 내용들을 기록하고 공유하는 것을 목표로 합니다.<br>
+다양한 개발자들과 정보를 공유함으로써 더 나은 개발자로 성장하고자 합니다.
 
-<div>
-  Daily Diary는 FE  개발자가 되기 위해 공부한 내용들을 기록하고 공유하는 것을 목표로 합니다.<br>
-  다양한 개발자들과 정보를 공유함으로써 더 나은 개발자로 성장하고자 합니다.
-</div><br>
+<br>
+
+# 취업을 위한 Employment Diary
+Employment Diary는 FE 개발자로서 취업하기 위해 내용들을 기록하고 작성합니다.
+다양한 취업 소식들의 정보를 공유하여 취업에 한 걸음 더 가까이 다가갈 수 있돌고 성장하고자 합니다.
+
+
+<br>
 
 # 소식 업데이트 주기
 <div>
