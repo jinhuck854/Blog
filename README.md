@@ -31,7 +31,8 @@ Employment Diary는 FE 개발자로서 취업하기 위해 내용들을 기록�
 	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" /><br>
 	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white" />
 	<img src="https://img.shields.io/badge/reactquery-FF4154?style=flat&logo=reactquery&logoColor=white" />
-	<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+	<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" /><br>
+	<img src="https://img.shields.io/badge/dart-0175C2?style=flat&logo=dart&logoColor=white" />
 </div><br>
 
 <div align="center">
